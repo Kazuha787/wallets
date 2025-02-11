@@ -33,8 +33,8 @@ Before running this application, make sure you have the following installed:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/Rambeboy/Wallet-Generator.git
-cd Wallet-Generator
+git clone https://github.com/Kazuha787/wallets.git
+cd wallets
 ```
 
 2. Install dependencies
